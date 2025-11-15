@@ -1,8 +1,9 @@
  # 🌟 Ajatshatru Singh (ajatshatrusingh23)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;DSA+Enthusiast;Problem+Solver;Tech+Explorer;Welcome+to+my+GitHub+Profile!" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;DSA+Enthusiast;Tech+Explorer;Always+learning+new+things" />
 </p>
+
 
 ---
 
