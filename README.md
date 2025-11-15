@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajatshatru
+ # 👋 Hi, I'm ajatshatrusingh23 Singh
 
 ## 🚀 Full‑Stack Developer | Problem Solver | Tech Explorer
 
@@ -8,7 +8,7 @@ I love building clean, efficient, and scalable applications. Passionate about C+
 
 ## 🌀 Animated Introduction
 ```html
-<img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+There+👋+I'm+Ajatshatru!;Full+Stack+Developer;Competitive+Programmer;Tech+Learner+and+Problem+Solver;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+There+👋+I'm+ajatshatrusingh23 Singh!;Full+Stack+Developer;Competitive+Programmer;Tech+Learner+and+Problem+Solver;Welcome+to+my+GitHub!" />
 ```
 
 ---
@@ -27,39 +27,44 @@ I love building clean, efficient, and scalable applications. Passionate about C+
 <div align="center">
 
 ### 🔥 Streak Stats
-<img src="https://streak-stats.demolab.com?user=Ajatshatru&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ajatshatrusingh23 Singh&theme=tokyonight&hide_border=true" />
 
 ### 📈 Overall Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Ajatshatru&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ajatshatrusingh23 Singh&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ### 💡 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajatshatru&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajatshatrusingh23 Singh&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧩 Skills & Tools
+## 🧩 Tech Stack
 
-### 💻 Programming Languages
-```
-C++, JavaScript, TypeScript, PHP, Java, Python
-```
+### 🖥️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,php,python" />
+</p>
 
-### 🧰 Frameworks & Libraries
-```
-React, Node.js, Express.js, jQuery
-```
+### 🧱 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap,tailwind" />
+</p>
 
-### 🗄️ Databases
-```
-MySQL, MongoDB
-```
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
-### 🛠 Tools
-```
-VS Code, Git, GitHub, Postman, Docker
-```
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
 
 ---
 
