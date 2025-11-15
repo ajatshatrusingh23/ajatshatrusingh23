@@ -1,8 +1,18 @@
- # 👋 Hi, I'm ajatshatrusingh23 Singh
+ # 🌟 Ajatshatru Singh (ajatshatrusingh23)
 
-## 🚀 Full‑Stack Developer | Problem Solver | Tech Explorer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;DSA+Enthusiast;Problem+Solver;Tech+Explorer;Welcome+to+my+GitHub+Profile!" />
+</p>
 
-I love building clean, efficient, and scalable applications. Passionate about C++, PHP, JavaScript, Algorithms, Operating Systems, and more. Always learning, always creating.
+---
+
+## 🚀 About Me
+Hi there! 👋 I'm **Ajatshatru**, a passionate developer who loves building powerful applications and mastering core CS fundamentals.
+
+- 🔭 Currently mastering **DSA + System Design**
+- 🌱 Learning **Modern Web Development (React, Node, PHP, MySQL)**
+- 🎯 Focused on writing clean, scalable, and optimized code
+- 💬 Ask me about C++, JavaScript, PHP, Algorithms, OS, and more!
 
 ---
 
