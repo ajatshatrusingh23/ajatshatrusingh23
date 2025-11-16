@@ -2,7 +2,9 @@
 
 ---
 
-### 💻 Full Stack Developer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
+</p>
 
 > Always Learning!
 
@@ -39,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Ajatshatru's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajatshatrusingh23&show_icons=true&theme=tokyonight" alt="Ajatshatru's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajatshatrusingh23&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajatshatrusingh23&theme=dracula&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -65,22 +67,13 @@
 ### 🔥 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajatshatrusingh23&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajatshatrusingh23&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen" alt="Profile Views">
-</p>```
-
-**To make this README fully yours, you need to replace the following placeholders:**
-
-*   `YOUR_PORTFOLIO_LINK`:  Add the link to your personal portfolio website.
-*   `YOUR_GITHUB_USERNAME`: Replace this with your actual GitHub username in all the image URLs.
-*   `YOUR_HOLOPIN_USERNAME`: If you use Holopin, replace this with your username to display your badges.
-*   **Open Source Badges**: Add any specific badges or images related to your open-source contributions in the "Open Source Contributor" section.
-
-Once you've replaced these placeholders, you can copy and paste the entire code into your `README.md` file on your GitHub profile.
+  <img src="https://komarev.com/ghpvc/?username=ajatshatrusingh23&color=brightgreen" alt="Profile Views">
+</p>
